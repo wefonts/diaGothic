@@ -1,1 +1,53 @@
 # diaGothic
+KBO다이아고딕체
+
+<pre>
+@font-face {
+    font-family: "diaGothic";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Light.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Light.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Light.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Light.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Light.ttf") format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: "diaGothic";
+    font-weight: 500;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Medium.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Medium.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Medium.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Medium.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Medium.ttf") format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: "diaGothic";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/diaGothic/diaGothic-Bold.ttf") format("truetype");
+    font-display: swap;
+}
+.diaGothic {
+    font-family: "diaGothic";
+}
+.diaGothic300 {
+    font-family: "diaGothic";
+    font-weight: 300;
+}
+.diaGothic500 {
+    font-family: "diaGothic";
+    font-weight: 500;
+}
+.diaGothic700 {
+    font-family: "diaGothic";
+    font-weight: 700;
+}
+</pre>
